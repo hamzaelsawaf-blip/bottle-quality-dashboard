@@ -3,9 +3,9 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="Bottle Filling QC Dashboard", layout="wide")
+st.set_page_config(page_title="Bottle Filling Quality Control Dashboard", layout="wide")
 
-st.title("AI-Powered Bottle Filling Quality Control Dashboard")
+st.title("Bottle Filling Quality Control Dashboard")
 st.write("Monitor a simulated bottle filling process using control charts and process capability analysis.")
 
 # Sidebar inputs
